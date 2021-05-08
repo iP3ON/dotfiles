@@ -1,0 +1,5 @@
+1. sudo pacman -S xf86-video-intel xorg xorg-xinit bspwm sxhkd rofi/dmenu nitrogen xfce4-terminal/alacritty firefox
+
+2. yay -S jonaburg-picom
+
+3. git clone https://github.com/iP3ON/dotfiles.git
